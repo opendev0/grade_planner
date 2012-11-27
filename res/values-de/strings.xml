@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Notenplaner</string>
+    
+    <string name="title_activity_main">Übersicht</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="title_dialog_add_subject">Neues Fach</string>
+    <string name="title_dialog_add_grade">Neue Note</string>
+    <string name="title_dialog_update_subject">Fach bearbeiten</string>
+    <string name="title_context_actions">Aktionen</string>
+    
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_create_subject">Fach hinzufügen</string>
+    <string name="menu_delete_subject">Fach löschen</string>
+    <string name="menu_edit_subject">Fach bearbeiten</string>
+    
+    <string name="setting_calc_method">Berechnungsmethode</string>
+    <string name="setting_min_grade">Schlechteste mögliche Note</string>
+    <string name="setting_max_grade">Beste mögliche Note</string>
+    
+    <string name="label_subject">Fach:</string>
+    <string name="label_part_grade">Teilnote:</string>
+   	<string name="label_points_weight">Punkte\nund\nGewichtung: </string>
+    
+    <string name="hint_subject">Fachbezeichnung</string>
+    <string name="hint_teacher">Lehrer</string>
+    
+    <string name="button_add">Hinzufügen</string>
+    <string name="button_delete">Entfernen</string>
+    
+    <string name="empty_subjects">Es wurden noch keine Fächer eingegeben.</string>
+    
+    <string name="empty_grades">Es sind noch keine Noten vorhanden.</string>
+    
+    <string name="empty_teacher">Kein Lehrer angegeben</string>
+    
+    <string name="average_label">Durchschnitt: </string>
+    
+    <string-array name="setting_calc_method_display_values">
+        <item>Realschule</item>
+        <item>BOS</item>
+    </string-array>
+    
+    
+    
+    
+    
+    <string name="create_subject">Neues Fach erstellen</string>
+    <string name="create_subject_name_label">Bezeichnung</string>
+    <string name="button_save">Speichern</string>
+    <string name="button_abort">Abbrechen</string>
+    <string name="add_grade">Note hinzufügen</string>
+    
+    <string name="lbl_new_subject">Neues Fach</string>
+    <string name="edit_grade">Note bearbeiten</string>
+    <string name="delete_grade">Note löschen</string>
+    <string name="min_grade">Schlechteste mögliche Benotung</string>
+    <string name="max_grade">Beste mögliche Benotung</string>
+</resources>

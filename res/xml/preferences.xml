@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Noten">        
+        <EditTextPreference
+            android:key="min_grade_setting"
+            android:title="@string/setting_min_grade"
+            android:defaultValue="6"
+            android:singleLine="true"
+            android:selectAllOnFocus="true"/>
+        
+        <EditTextPreference
+            android:key="max_grade_setting"
+            android:title="@string/setting_max_grade"
+            android:defaultValue="1"
+            android:singleLine="true"
+            android:selectAllOnFocus="true"/>
+        
+        <ListPreference
+            android:key="calc_method_setting"
+            android:title="@string/setting_calc_method"
+            android:entryValues="@array/setting_calc_method_values"
+            android:entries="@array/setting_calc_method_display_values"/>
+    </PreferenceCategory>
+</PreferenceScreen>

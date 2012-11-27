@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Grade Planner</string>
+    
+    <string name="title_activity_main">Overview</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_dialog_add_subject">Add subject</string>
+    <string name="title_dialog_add_grade">Add grade</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="menu_create_subject">Add subject</string>
+    <string name="menu_delete_subject">Delete subject</string>
+    
+    <string name="label_subject">Subject: </string>
+    
+    <string name="hint_subject">Subject name</string>
+    <string name="hint_teacher">Teacher</string>
+    
+    <string name="button_add">Add</string>
+    
+    <string name="empty_subjects">Add some subjects to fill this view.</string>
+    
+    <string name="empty_grades">Add some grades to fill this view.</string>
+    
+    <string-array name="setting_calc_method_values">
+        <item>default</item>
+        <item>bos</item>
+    </string-array>
+</resources>
